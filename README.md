@@ -5,4 +5,4 @@ First article: https://itnext.io/how-to-use-your-c-muscle-using-tensorflow-2-0-a
 
 Second article: https://itnext.io/creating-a-tensorflow-dnn-in-c-part-1-54ce69bbd586
 
-Third article: in progress...
+Third article: Soon to be published.
