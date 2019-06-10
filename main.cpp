@@ -42,11 +42,11 @@ int main(int argc, const char * argv[])
     size_t valid_batches = valid_images.size();
     assert(valid_batches == valid_labels.size());
 
-    int num_epocs = 20;
-    //Epoc / Step loops
-    for(int epoc = 0; epoc < num_epocs; epoc++)
+    int num_epochs = 20;
+    //Epoch / Step loops
+    for(int epoch = 0; epoch < num_epochs; epoch++)
     {
-        cout << "Epoc " << epoc+1 << "/" << num_epocs << ":";
+        cout << "Epoch " << epoch+1 << "/" << num_epochs << ":";
         auto t1 = high_resolution_clock::now();
         float loss_sum = 0;
         float accuracy_sum = 0;
