@@ -6,3 +6,5 @@ First article: https://itnext.io/how-to-use-your-c-muscle-using-tensorflow-2-0-a
 Second article: https://itnext.io/creating-a-tensorflow-dnn-in-c-part-1-54ce69bbd586
 
 Third article: https://towardsdatascience.com/creating-a-tensorflow-cnn-in-c-part-2-eea0de9dcada
+
+Fourth article: Soon published
