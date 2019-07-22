@@ -7,4 +7,4 @@ Second article: https://itnext.io/creating-a-tensorflow-dnn-in-c-part-1-54ce69bb
 
 Third article: https://towardsdatascience.com/creating-a-tensorflow-cnn-in-c-part-2-eea0de9dcada
 
-Fourth article: Soon published
+Fourth article: https://towardsdatascience.com/creating-a-tensorflow-cnn-in-c-part-3-freezing-the-model-and-augmenting-it-59a07c7c4ec6
