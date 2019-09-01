@@ -8,3 +8,7 @@ Second article: https://itnext.io/creating-a-tensorflow-dnn-in-c-part-1-54ce69bb
 Third article: https://towardsdatascience.com/creating-a-tensorflow-cnn-in-c-part-2-eea0de9dcada
 
 Fourth article: https://towardsdatascience.com/creating-a-tensorflow-cnn-in-c-part-3-freezing-the-model-and-augmenting-it-59a07c7c4ec6
+
+For DNN Part 1 use V1 files
+For DNN Part 2 use V2 files
+For DNN Part 3 use regular files (w/o V)
